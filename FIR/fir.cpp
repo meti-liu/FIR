@@ -1,7 +1,7 @@
 #include <graphics.h>
 #include<iostream>
 using namespace std;
-const int Num = 12;
+const int Num = 19;
 int Size;//可以自由选择地图的size
 char current = 'O';//O先手X后手
 void mapsize()
